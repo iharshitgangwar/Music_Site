@@ -21,6 +21,7 @@ nav ul{
 }
 nav ul li{
    padding: 0 12px; 
+   cursor: pointer;
 }
 .brand{
     display: flex;
@@ -33,15 +34,16 @@ nav ul li{
 .brand img{
     width: 44px;
     padding:0 8px;
+    cursor: pointer;
 }
 .container{
-    min-height: 70vh;
+    height: 60vh;
     background-color: black;
     color:white;
     font-family: 'Varela Round' sans-serif;
     display: flex;
     margin: 23px auto;
-    width: 80%;
+    width: 65%;
     background-position: center;
     border-radius: 12px ;
     padding: 34px;
