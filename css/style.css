@@ -47,7 +47,7 @@ nav ul li{
     background-position: center;
     border-radius: 12px ;
     padding: 34px;
-    background-image: URL(..img/bg.jpg);
+    background-image: URL(../img/bg.jpg);
     background-repeat: no-repeat;
 }
 
